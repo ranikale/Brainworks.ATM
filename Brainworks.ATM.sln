@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainworks.ATM.Data", "Brainworks.ATM.Data\Brainworks.ATM.Data.csproj", "{BDA8A17F-ADD3-40C1-8B76-BFE6FF8DC44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA8A17F-ADD3-40C1-8B76-BFE6FF8DC44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA8A17F-ADD3-40C1-8B76-BFE6FF8DC44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA8A17F-ADD3-40C1-8B76-BFE6FF8DC44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA8A17F-ADD3-40C1-8B76-BFE6FF8DC44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B421F756-A2B9-4503-9A27-7BE756C650EB}
+	EndGlobalSection
+EndGlobal
